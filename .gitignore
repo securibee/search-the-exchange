@@ -1,0 +1,4 @@
+# Build products of tools/build-index.py. The skill builds them per run under
+# /tmp; the repo never carries a copy, because a committed index is a stale one.
+/listings.json
+/listings-full.json
