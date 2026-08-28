@@ -1,8 +1,8 @@
 # search-the-exchange
 
-Checks the [CyberAgents Exchange](https://exchange.tenable.com) for something that already does
-this, so you can use what's already been built instead of building it yourself. Say what you
-want in whatever words you have: "best risk-based VM solution?", "tired of triaging phishing by
+Answers one question: does the [CyberAgents Exchange](https://exchange.tenable.com) already have something for this? So you can use what's already been built instead of starting from scratch. 
+
+Say what you want in whatever words you have: "best risk-based VM solution?", "tired of triaging phishing by
 hand", "anything for cloud misconfigs?" It searches the catalog and returns a table of the
 closest listings, each linked to its Exchange page, with a coverage verdict.
 
